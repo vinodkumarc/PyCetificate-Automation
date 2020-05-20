@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Youtube-Views-Increaser-V1.0/.idea/Youtube-Views-Increaser-V1.0.iml" filepath="$PROJECT_DIR$/../Youtube-Views-Increaser-V1.0/.idea/Youtube-Views-Increaser-V1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/certificate-generator-master.iml" filepath="$PROJECT_DIR$/.idea/certificate-generator-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cloudserver-backup/.idea/cloudserver-backup.iml" filepath="$PROJECT_DIR$/../cloudserver-backup/.idea/cloudserver-backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../helping-scripts/.idea/helping-scripts.iml" filepath="$PROJECT_DIR$/../helping-scripts/.idea/helping-scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../speedlink-monitoring/.idea/speedlink-monitoring.iml" filepath="$PROJECT_DIR$/../speedlink-monitoring/.idea/speedlink-monitoring.iml" />
+    </modules>
+  </component>
+</project>
